@@ -11,9 +11,13 @@ Features
 
 - 
 -- v 0.5   	27.09.2022 Minor fixes,Added Radial Symmetry with custom reference object
+  
 -- v 0.6   	02.02.2024 Updated to work with the new boolean modifier, wip:a simple recteangular or circular stamp object can added to the booleans, crease set modifier adds an initial set, undo added in various places
+
 -- v.0.7	20.07.2024 UI Is Dockable now, Array Suport, Fixes. 	
+
 -- Requirements:  For the offset option you need Itoo's free "Spline Offset modifier"  www.itoosoft.com 
+
 
 
 Install: Drag and Drop to the Viewport
